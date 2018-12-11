@@ -9,4 +9,4 @@ Tic-Tac-Toe with Python-3.x Turtle and Random
 
 >Try it out!
 
-Text me the bugs at <a>jewelbarman998@gmail.com</a> or <a href="www.quora.com/Jewel-Barman-3">Jewel Barman</a>
+Text me the bugs at <a href="mailto:jewelbarman998@gmail.com">Gmail</a> or <a href="https://www.quora.com/Jewel-Barman-3">Jewel Barman</a>
